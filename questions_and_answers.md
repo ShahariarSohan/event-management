@@ -18,10 +18,10 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
 <i>Write your explanation here</i>
-
+Because here we haven't declared var grettin.We know that if we give a value to a variable but not declare it .It will show undefined.
 </p>
 </details>
 
